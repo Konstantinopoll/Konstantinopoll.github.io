@@ -1,9 +1,9 @@
-title: Koci's blog 
-description: writing about  life 
-author: Koci 
+title: "Koci's blog"
+description: "Writing about life"
+author: "Koci"
 theme: jekyll-theme-midnight
 
-url: "https://konstantinopoll.github.io/"
+url: "https://konstantinopoll.github.io"
 baseurl: ""
 
 timezone: Europe/Sofia
@@ -14,6 +14,5 @@ plugins:
   - jekyll-seo-tag
 
 exclude:
-  -README.md
-  -LICENSE
- 
+  - README.md
+  - LICENSE
