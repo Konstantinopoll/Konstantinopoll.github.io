@@ -1,6 +1,8 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
-this is my blog where I suppose I would be posting about whatever comes to mind.
+# Koci's blog
+
+This is my blog where I suppose I will be posting about whatever comes to mind.
