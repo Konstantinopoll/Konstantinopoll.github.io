@@ -1,0 +1,21 @@
+title: Koci's blog 
+description: writing about  life 
+author: Koci 
+theme: minima
+
+url: "https://konstantinopoll.github.io/"
+baseurl: ""
+
+timezone: Europe/Sofia
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  
+jekyll-feed
+jekyll-seo-tag
+
+exclude:
+  
+README.md
+LICENSE
+ 
