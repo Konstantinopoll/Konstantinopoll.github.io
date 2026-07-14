@@ -10,12 +10,10 @@ timezone: Europe/Sofia
 permalink: /:year/:month/:day/:title/
 
 plugins:
-  
-jekyll-feed
-jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
 
 exclude:
-  
-README.md
-LICENSE
+  -README.md
+  -LICENSE
  
