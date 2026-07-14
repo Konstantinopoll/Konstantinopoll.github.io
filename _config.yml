@@ -1,7 +1,7 @@
 title: Koci's blog 
 description: writing about  life 
 author: Koci 
-theme: minimal
+remote_theme: pages-themes/minimal@v0.2.0
 
 url: "https://konstantinopoll.github.io/"
 baseurl: ""
@@ -12,6 +12,7 @@ permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 exclude:
   -README.md
